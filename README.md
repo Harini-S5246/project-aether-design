@@ -31,7 +31,7 @@ Urgent alerts and notifications
 [Design System](design-system.png)
 Typography and component library
 
-📄 Full PDF: [Download Project Aether PDF](./project-aether.pdf)
+📄Full PDF: [Download Project Aether PDF](./Project%20Aether%20–%20Organ-on-Chip%20Dashboard.pdf)
 
 Built With
 
